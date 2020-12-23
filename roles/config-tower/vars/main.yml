@@ -35,7 +35,7 @@ opentlc_cred_name: "Opentlc key"
 opentlc_login: cloud-user
 
 proj_name: "00_Homework Assignment"
-password: 7K0q1FLrdrtI
+password: r3dh4t1!
 path_to_scm_inventory: scm_inventory
 
 tag_filters: "tag:instance_filter=three-tier-app-{{ EMAIL }}"
